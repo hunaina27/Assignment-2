@@ -96,11 +96,9 @@ h5 {
 .custom-card-body {
   background: rgba(245, 252, 255, 1);
   border-radius: 10.67px;
-}
-
-.custom-border {
   border-bottom: 4px solid rgba(94, 59, 238, 1);
 }
+
 
 .card-body-p {
   color: rgba(28, 30, 83, 1);
