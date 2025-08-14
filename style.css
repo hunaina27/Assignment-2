@@ -24,7 +24,7 @@ body {
 .custom-nav-butn:hover {
   background-color: rgba(94, 59, 238, 1);
   border-color: rgba(94, 59, 238, 1);
-  color:rgba(255, 255, 255, 1);
+  color: rgba(255, 255, 255, 1);
 }
 
 .custom-links {
@@ -91,6 +91,7 @@ h5 {
   border-radius: 5.33px;
   border-color: hsl(255, 100%, 62%);
 }
+
 .custom-btun:hover {
   background-color: #5a2fd4;
   border-color: #5a2fd4;
@@ -161,7 +162,8 @@ h5 {
 .custom-colr {
   color: rgba(40, 41, 56, 1);
 }
-.heart-color{
- color: rgba(230, 40, 114, 1);
+
+.heart-color {
+  color: rgba(230, 40, 114, 1);
 
 }
