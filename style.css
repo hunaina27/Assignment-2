@@ -20,8 +20,12 @@ body {
   border-width: 1px;
   border-radius: 4px;
 
+}
 
-
+.custom-nav-butn:hover {
+  background-color: rgba(94, 59, 238, 1);
+  border-color: rgba(94, 59, 238, 1);
+  color:rgba(255, 255, 255, 1);
 }
 
 .custom-links {
@@ -82,10 +86,9 @@ h5 {
 
 }
 
-.custom-hero-btun {
+.custom-btun {
   background: rgba(94, 59, 238, 1);
   color: rgba(255, 255, 255, 1);
-  opacity: 1;
   border-radius: 5.33px;
 }
 
@@ -108,6 +111,7 @@ h5 {
 }
 
 /* section 3 */
+
 /* 100% width for mobile screens */
 @media (max-width: 768px) {
   .card-body-p {
@@ -137,9 +141,10 @@ h5 {
   background: rgba(255, 255, 255, 1);
 }
 
-.form-text-color{
+.form-text-color {
   color: rgba(40, 41, 56, 1);
 }
+
 .border-primary {
   /* Purple outline */
   border: 1.33px solid rgba(94, 59, 238, 1) !important;
@@ -147,10 +152,24 @@ h5 {
 
 .btn-primary {
   background-color: #6c3bff;
-  border-color: #6c3bff;
+  border-color: hsl(255, 100%, 62%);
 }
 
 .btn-primary:hover {
   background-color: #5a2fd4;
   border-color: #5a2fd4;
+}
+
+/* footer section */
+.custom-footer {
+  background: rgba(245, 252, 255, 1);
+
+}
+
+.custom-colr {
+  color: rgba(40, 41, 56, 1);
+}
+.heart-color{
+ color: rgba(230, 40, 114, 1);
+
 }
