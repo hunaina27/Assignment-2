@@ -2,14 +2,13 @@ body {
   font-family: "Roboto", sans-serif;
   font-optical-sizing: auto;
 }
-
+/* navbar */
 .custom-navbr {
   background: rgba(255, 255, 255, 1);
   box-shadow: 0px 4px 60px 0px rgba(0, 0, 0, 0.1);
   height: 60px;
 
 }
-
 
 .custom-nav-butn {
   border: 1px solid rgba(94, 59, 238, 1);
@@ -59,7 +58,6 @@ h3,
 h4,
 h5 {
   color: rgba(40, 41, 56, 1);
-
 
 
 }
