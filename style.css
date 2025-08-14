@@ -11,8 +11,6 @@ body {
 }
 
 
-
-
 .custom-nav-butn {
   border: 1px solid rgba(94, 59, 238, 1);
   color: rgba(94, 59, 238, 1);
@@ -50,15 +48,14 @@ body {
 
 @media (min-width:0px) and (max-width: 767px) {
   .line-height {
-    line-height: 30px;
+    line-height: 32px;
   }
 
 }
 
 .custom-responsive-img {
-  width: 70%;
+  width: 80%;
   /* for Smaller screens */
-  max-width: 600px;
   height: auto;
 }
 
