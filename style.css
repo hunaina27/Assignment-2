@@ -53,19 +53,6 @@ body {
 
 }
 
-.custom-responsive-img {
-  width: 80%;
-  /* for Smaller screens */
-  height: auto;
-}
-
-@media (min-width: 992px) {
-  .custom-responsive-img {
-    width: 100%;
-    /* for large screens */
-  }
-}
-
 h1,
 h2,
 h3,
