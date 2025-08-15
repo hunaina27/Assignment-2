@@ -93,15 +93,6 @@ h5 {
 
 }
 
-/* section 3 */
-
-/* 100% width for mobile screens */
-@media (max-width: 768px) {
-  .card-body-p {
-    width: 100% !important;
-  }
-}
-
 /* section 4  */
 .custom-shadow {
   box-shadow: 0px 5.33px 16px 0px rgba(0, 0, 0, 0.15);
